@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/tina-borundia-274673260/">Tina Borundia</a> </h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/tina-borundia-274673260/">Priya Chaurasiya</a> </h1>
 
 # 🪶 GSSOC(24) Badges:
 
