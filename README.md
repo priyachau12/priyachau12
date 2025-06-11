@@ -28,7 +28,7 @@
 ![](https://komarev.com/ghpvc/?username=priyachau12&abbreviated=true) <br/>
 <a href="https://github.com/priyachau12">
 ![](https://github-readme-stats.vercel.app/api?username=priyachau12&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=TBorundia&background=30,e96443,904e95&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=priyachau12&background=30,e96443,904e95&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)<br/>
 </a>
 <br/>
 
@@ -42,7 +42,7 @@
   <h1> 🔗 Connect with Me</h1>
   <a href="https://www.linkedin.com/in/priya-chaurasiya-30320a24b/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://github.com/priyachau12"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
-<!--   <a href="https://x.com/TBorundia19878"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a> -->
+
   <a href="#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
   <a href="mailto:priyachaurasiya730@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
 </div>
