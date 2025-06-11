@@ -28,7 +28,7 @@
 ![](https://komarev.com/ghpvc/?username=priyachau12&abbreviated=true) <br/>
 <a href="https://github.com/priyachau12">
 ![](https://github-readme-stats.vercel.app/api?username=priyachau12&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=TBorundia&background=30,e96443,904e95&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=priyachau12&background=30,e96443,904e95&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)<br/>
 </a>
 <br/>
 
