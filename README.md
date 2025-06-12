@@ -17,7 +17,7 @@
 
 # Hacktoberfest'24:
   <img src="https://holopin.me/priyachau12" height="300px" />
-
+ <img src="https://holopin.me/tborundia" height="300px" />
 # 🏆 GitHub Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=priyachau12&theme=darkhub&no-frame=false&no-bg=false&margin-w=15)
