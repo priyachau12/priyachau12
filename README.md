@@ -31,9 +31,25 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyachau12&background=30,e96443,904e95&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)<br/>
 
 </a>
-[![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyachau12&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true)](https://github.com/priyachau12)
+
 
 <br/>
+
+<h2 align="center">📊 My GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyachau12&label=Profile%20views&color=0e75b6&style=flat" alt="priyachau12" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyachau12&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyachau12&background=30,e96443,904e95&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyachau12&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=ffffff&area=true&hide_border=true" />
+</p>
+
 
 # 🔝 Top Contributed Repo :
 
