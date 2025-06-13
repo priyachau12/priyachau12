@@ -42,13 +42,26 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyachau12&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyachau12&background=30,e96443,904e95&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img src="https://img.shields.io/github/contributions/priyachau12/year?color=blue&label=Contributions&style=flat-square" alt="contributions" />
+  <img src="https://img.shields.io/github/commit-activity/y/priyachau12/priyachau12?color=green&label=Commits&style=flat-square" alt="commits" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyachau12&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyachau12&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyachau12&background=30,e96443,904e95&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyachau12&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyachau12&theme=algolia&row=2&column=3" alt="GitHub Trophies" />
+</p>
+
 
 
 # 🔝 Top Contributed Repo :
