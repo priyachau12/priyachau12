@@ -2,7 +2,7 @@
 <h1 align="center"> Hi 👋, I'm <a href="linkedin.com/in/priya-chaurasiya-30320a24b/">Priya Chaurasiya</a> </h1>
 
 # 🪶 GSSOC(24) Badges:
-
+<!--
 <div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <div style='display:flex; gap: 10px;'>
   <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" width="100px" height="100px" />
@@ -14,7 +14,7 @@
   <img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=96" width="100px" height="100px" />
 </div>
 </div>
-
+-->
 # Hacktoberfest'24:
   <img src="https://holopin.me/priyachau12" height="300px" />
  
